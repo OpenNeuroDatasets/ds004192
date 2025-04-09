@@ -1,0 +1,15 @@
+{
+    "Name": "fmriprep",
+    "BIDSVersion": "1.9.0",
+    "DatasetType": "derivative",
+    "GeneratedBy": [
+        {
+            "Name": "fmriprep",
+            "Version": "20.2.0",
+            "Container": {
+                "Type": "docker",
+                "Tag": "nipreps/fmriprep:20.2.0"
+                }
+        }
+    ]
+}

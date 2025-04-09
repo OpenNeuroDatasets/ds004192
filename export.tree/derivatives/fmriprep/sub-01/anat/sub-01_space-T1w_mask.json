@@ -1,0 +1,7 @@
+{
+    "Description": "Brain masks for the fMRI data.",
+    "Type": "Brain",
+    "RawSources": [
+        "bids:ds004192:sub-01/anat/sub-01_ses-localizer1_acq-prescannormalized_rec-pydeface_T1w.nii.gz"
+    ]
+}

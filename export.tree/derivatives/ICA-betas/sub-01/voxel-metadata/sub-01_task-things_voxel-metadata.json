@@ -1,0 +1,4 @@
+{
+    "Description": "Contains additional information about each voxel, e.g. noise ceilings or membership to regions of interest. Catch trials have been excluded",
+    "Sources": ["bids:ds004192:sub-01/"]
+}
