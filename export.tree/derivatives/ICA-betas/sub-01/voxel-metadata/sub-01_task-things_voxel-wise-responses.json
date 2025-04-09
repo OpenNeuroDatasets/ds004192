@@ -1,4 +1,0 @@
-{
-    "Description": "Contains voxel-wise responses to each presented image.",
-    "Sources": ["bids:ds004192:sub-01/"]
-}

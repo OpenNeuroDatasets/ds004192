@@ -1,4 +1,0 @@
-{
-    "Description": "Contains additional data about each stimulus, e.g. which session or run it was presented in.",
-    "Sources": ["bids:ds004192:sub-01/"]
-}
